@@ -54,7 +54,7 @@ function App() {
           Hi, I'm <span className="name">{name}</span>
         </h1>
         <h2 className="workshop-message">
-          I successfully completed the Zoople DevOps Workshop.
+          I successfully completed the Zoople DevOps Workshop on 25-04-2026 at Zoople Technologies,Kochi.
         </h2>
         <p className="subtitle">
           Ready to automate, scale, and secure modern infrastructure!
